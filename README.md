@@ -145,7 +145,7 @@ The architecture is designed to support:
 
 ## Author
 
-**Rahul Yerunkar** 
+**Rahul Yerunkar &** 
 **Vighnaraj Kakade**
 
 Data Cleaning & Process Automation Solution
