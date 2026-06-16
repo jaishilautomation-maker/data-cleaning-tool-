@@ -142,6 +142,17 @@ The architecture is designed to support:
 * Large-scale data processing workflows
 
 ---
+## Live Demo
+
+The Data Cleaning Tool is a web-based application developed to streamline and automate the process of cleaning, validating, and preparing business data files for further analysis and reporting. The application provides an intuitive interface that helps users process datasets efficiently while maintaining data quality and consistency.
+
+### Live Application
+
+🔗 https://jaishildatacleaner.streamlit.app/
+
+### Author
+
+Rahul Yerunkar
 
 ## Author
 
